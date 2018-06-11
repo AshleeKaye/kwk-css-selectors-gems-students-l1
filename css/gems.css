@@ -18,10 +18,11 @@
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
-/*selector for sapphire goes here */{
+/*selector for sapphire goes here */
+#sapphire {
   position: absolute;
   z-index: 5;
-  top: 315px;
+  top: 500px;
   left: 275px;
 }
 
@@ -31,7 +32,7 @@
 #yellow_diamond {
   position: absolute;
   z-index: 4;
-  top: 1000px;
+  top: 325px;
   left: 200px;
 }
 
