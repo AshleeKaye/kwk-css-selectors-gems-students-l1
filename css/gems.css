@@ -14,8 +14,8 @@
 #emerald {
   position: absolute;
   z-index: 2;
-  top: 300px;
-  left: 300px;
+  top: 100px;
+  left: 369px;
 }
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
